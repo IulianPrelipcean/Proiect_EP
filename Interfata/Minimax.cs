@@ -1,0 +1,16 @@
+﻿using System;
+
+namespace SimpleCheckers
+{
+    /// <summary>
+    /// Implementeaza algoritmul de cautare a mutarii optime
+    /// </summary>
+    public partial class Minimax
+    {
+        private static Random _rand = new Random();
+
+        private static int _depth = 4;
+
+        // public static Board FindNextBoard(Board currentBoard) - completati aceasta metoda in fisierul Rezolvare.cs
+    }
+}
