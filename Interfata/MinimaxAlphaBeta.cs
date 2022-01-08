@@ -9,7 +9,7 @@ namespace SimpleCheckers
     /// <summary>
     /// Implementeaza algoritmul minimax cu aplha beta prunning
     /// </summary>
-    class MinimaxAlphaBeta
+    public class MinimaxAlphaBeta
     {
         private static Random _rand = new Random();
 

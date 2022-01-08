@@ -53,12 +53,6 @@ namespace SimpleCheckers
         public MainForm()
         {
             InitializeComponent();
-
-            TestareUnitati.TestFunctieEvaluare();
-            TestareUnitati.TestFinalJoc();
-            TestareUnitati.TestFrontiereMutareInvalida();
-            TestareUnitati.TestMutareValida();
-            TestareUnitati.TestMutareInvalida();
             
 
 
