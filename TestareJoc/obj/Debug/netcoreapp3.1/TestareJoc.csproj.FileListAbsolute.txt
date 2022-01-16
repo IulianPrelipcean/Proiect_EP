@@ -99,3 +99,204 @@ E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP\TestareJ
 E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP\TestareJoc\obj\Debug\netcoreapp3.1\TestareJoc.pdb
 E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP\TestareJoc\obj\Debug\netcoreapp3.1\TestareJoc.genruntimeconfig.cache
 E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP\TestareJoc\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\obj\Debug\netcoreapp3.1\TestareJoc.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\obj\Debug\netcoreapp3.1\TestareJoc.pdb
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\TestareJoc.deps.json
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\TestareJoc.runtimeconfig.json
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\TestareJoc.runtimeconfig.dev.json
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\TestareJoc.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\TestareJoc.pdb
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\SimpleCheckers.exe
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\SimpleCheckers.pdb
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\SimpleCheckers.exe.config
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\obj\Debug\netcoreapp3.1\TestareJoc.csproj.AssemblyReference.cache
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\obj\Debug\netcoreapp3.1\TestareJoc.AssemblyInfoInputs.cache
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\obj\Debug\netcoreapp3.1\TestareJoc.AssemblyInfo.cs
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\obj\Debug\netcoreapp3.1\TestareJoc.csproj.CoreCompileInputs.cache
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\obj\Debug\netcoreapp3.1\TestareJoc.csproj.CopyComplete
+C:\Users\diana\Documents\Facultate\Facultate\An 4\EP\Tema\Proiect_EP-master\TestareJoc\obj\Debug\netcoreapp3.1\TestareJoc.genruntimeconfig.cache
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\testhost.exe
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\testhost.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\TestareJoc.deps.json
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\TestareJoc.runtimeconfig.json
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\TestareJoc.runtimeconfig.dev.json
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\TestareJoc.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\TestareJoc.pdb
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\nunit.framework.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\SimpleCheckers.exe
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\SimpleCheckers.pdb
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\bin\Debug\netcoreapp3.1\SimpleCheckers.exe.config
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\obj\Debug\netcoreapp3.1\TestareJoc.csproj.AssemblyReference.cache
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\obj\Debug\netcoreapp3.1\TestareJoc.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\obj\Debug\netcoreapp3.1\TestareJoc.AssemblyInfoInputs.cache
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\obj\Debug\netcoreapp3.1\TestareJoc.AssemblyInfo.cs
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\obj\Debug\netcoreapp3.1\TestareJoc.csproj.CoreCompileInputs.cache
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\obj\Debug\netcoreapp3.1\TestareJoc.csproj.CopyComplete
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\obj\Debug\netcoreapp3.1\TestareJoc.dll
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\obj\Debug\netcoreapp3.1\TestareJoc.pdb
+E:\Facultate\Anul_IV\Anul_4\Evaluarea_performantelor\Proiect\Proiect_EP_final_cod\Proiect_EP-master\TestareJoc\obj\Debug\netcoreapp3.1\TestareJoc.genruntimeconfig.cache

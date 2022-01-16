@@ -103,7 +103,7 @@ namespace SimpleCheckers
                             
                             max = Math.Max(max, score);
                             alpha = Math.Max(alpha, score);
-                            if (beta <= alpha) break;
+                            if (beta <= alpha) return max;  // break
                         }
                     }
                 }
@@ -126,7 +126,7 @@ namespace SimpleCheckers
                            
                             min = Math.Min(min, score);
                             beta = Math.Min(beta, score);
-                            if (beta <= alpha) break;
+                            if (beta <= alpha)  return min;     // break
                         }
                     }
                 }

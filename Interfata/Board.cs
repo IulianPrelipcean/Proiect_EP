@@ -84,7 +84,6 @@ namespace SimpleCheckers
             }
         }
 
-        // public double EvaluationFunction() - completati aceasta metoda in fisierul Rezolvare.cs
 
         /// <summary>
         /// Creeaza o noua configuratie aplicand mutarea primita ca parametru in configuratia curenta
@@ -120,25 +119,6 @@ namespace SimpleCheckers
         /// <param name="winner">Cine a castigat: omul sau calculatorul</param>
         public void CheckFinish(out bool finished, out PlayerType winner)
         {
-          
-            /*
-            if (Pieces.Where(p => p.Player == PlayerType.Human && p.Y == Size - 1).Count() == Size)
-            {
-                finished = true;
-                winner = PlayerType.Human;
-                return;
-            }
-
-            if (Pieces.Where(p => p.Player == PlayerType.Computer && p.Y == 0).Count() == Size)
-            {
-                finished = true;
-                winner = PlayerType.Computer;
-                return;
-            }
-
-            finished = false;
-            winner = PlayerType.None;
-            */
 
             // Cine ramane primul fara piese pierde
             if(Pieces.Where(p=> p.Player == PlayerType.Human).Count() == 0)

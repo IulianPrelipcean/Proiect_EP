@@ -44,7 +44,6 @@ namespace SimpleCheckers
         private int _selected; // id-ul piesei selectate
         private PlayerType _currentPlayer; // om sau calculator
         private Bitmap _boardImage;
-        private int _difficultyDepth = 4;
         /*
             Utils
          */
@@ -138,7 +137,6 @@ namespace SimpleCheckers
             }
             else// Daca dau inca o data click pe aia selectata, o deselectez
             {
-                //!!!!!! CEL MAI POSIBIL VA GENERA ERORI
                 //Piece selectedPiece = _board.Pieces[_selected];
                 Piece selectedPiece = _board.Pieces[0];
 
@@ -189,7 +187,9 @@ namespace SimpleCheckers
             Move nextMove;
 
             SetParameters();
-            
+
+            CheckFinish();
+
             watch.Start();
             (nextBoard, nextMove) = MinimaxAlphaBeta.FindNextBoard(_board);
             watch.Stop();
@@ -204,6 +204,8 @@ namespace SimpleCheckers
             _currentPlayer = PlayerType.Human;
 
             CheckFinish();
+
+
         }
 
         private void SetParameters()
@@ -246,22 +248,71 @@ namespace SimpleCheckers
 
         private void CheckFinish()
         {
-            bool end; PlayerType winner;
-            _board.CheckFinish(out end, out winner);
+            // Daca un jucator nu mai are mutari disponibile, este blocat si se considera ca a pierdut
 
-            if (end)
+            List<Move> validMoves = new List<Move>();
+            bool existsMoveHuman = false;
+            bool existsMoveComputer = false;
+
+            foreach (Piece piece in _board.Pieces)
             {
-                if (winner == PlayerType.Computer)
+                validMoves = piece.ValidMoves(_board);
+                if (piece.Player == PlayerType.Computer)
+                {
+                    if (validMoves.Count() > 0)
+                    {
+                        existsMoveComputer = true;
+                    }
+                }
+                else
+                if (piece.Player == PlayerType.Human)
+                {
+                    if (validMoves.Count() > 0)
+                    {
+                        //MessageBox.Show(piece.Id.ToString()  + " - x: " + validMoves[0].NewX + "  - y: " + validMoves[0].NewY);
+                        existsMoveHuman = true;
+                    }
+                }
+            }
+
+
+
+            if (existsMoveComputer == false)        // omul a castigat, computerul este blocat
+            {
+                MessageBox.Show("Ai castigat!");
+                _currentPlayer = PlayerType.None;
+                jocNou();
+            }
+            else
+            {
+                if (existsMoveHuman == false)       // // calculatorul a castigat, onul este blocat
                 {
                     MessageBox.Show("Calculatorul a castigat!");
                     _currentPlayer = PlayerType.None;
+                    jocNou();
                 }
-                else if (winner == PlayerType.Human)
-                {
-                    MessageBox.Show("Ai castigat!");
-                    _currentPlayer = PlayerType.None;
+                else
+                {   // se verifica si restul conditiilor de terminare
+                    bool end; PlayerType winner;
+                    _board.CheckFinish(out end, out winner);
+
+                    if (end)
+                    {
+                        if (winner == PlayerType.Computer)
+                        {
+                            MessageBox.Show("Calculatorul a castigat!");
+                            _currentPlayer = PlayerType.None;
+                        }
+                        else if (winner == PlayerType.Human)
+                        {
+                            MessageBox.Show("Ai castigat!");
+                            _currentPlayer = PlayerType.None;
+                        }
+                    }
                 }
+
             }
+
         }
 
         private void AnimateTransition(Board b1, Board b2)
@@ -301,6 +352,11 @@ namespace SimpleCheckers
         }
 
         private void jocNouToolStripMenuItem_Click(object sender, System.EventArgs e)
+        {
+            jocNou();
+        }
+
+        private void jocNou()
         {
             _board = new Board();
             richTextBox1.Clear();

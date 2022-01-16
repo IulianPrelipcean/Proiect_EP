@@ -41,9 +41,6 @@ namespace SimpleCheckers
             PT = PieceType.Normal;
         }
 
-        // public List<Move> ValidMoves(Board currentBoard) - completati aceasta metoda in fisierul Rezolvare.cs
-
-        // public bool IsValidMove(Board currentBoard, Move move) - - completati aceasta metoda in fisierul Rezolvare.cs
 
         
     }
